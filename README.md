@@ -13,7 +13,7 @@ Experimental mini-extension for [WooCommerce Free Gift Coupons](https://woocomme
 
 ### Usage
 
-1. Download plugin, install, and activate
+1. [Download plugin](https://github.com/kathyisawesome/wc-fgc-sync/archive/master.zip), install, and activate
 2. Configure your free gift coupon settings as per Free Gift Coupons documentation.
 3. Select a single product as a required product in the WooCommerce "Usage Restriction" tab.
 
